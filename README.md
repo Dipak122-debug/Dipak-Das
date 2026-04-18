@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 💻 Backend-focused Engineer with **34+ years of experience**
+- 💻 Backend-focused Engineer with **4+ years of experience**
 - ⚙️ Building scalable systems using **Java, Spring Boot, Microservices, Kafka**
 - 🌐 Also working with **Angular & React**
 - 🧠 Strong in **DSA, System Design & Distributed Systems**
@@ -31,6 +31,14 @@
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🤖 AI / GenAI (Exploring)
+![Generative AI](https://img.shields.io/badge/GenerativeAI-FF6F00?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
 
 ---
 
@@ -47,23 +55,18 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
+- ## 🧠 LeetCode
+- 🔗 https://leetcode.com/u/dipak628das/
 ---
 
 ## 🔥 Featured Projects
-- 🚀 **Real-time Fraud Detection System (Kafka + Spring Boot)**
+- 🚀 **Expense tracking Spring Boot Service**
 - 🏨 **Hotel Booking Microservices System**
-- 📍 **Location API Integration (Maps + Backend Services)**
-
 ---
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/das-dipak/
-- 📧 Email: dipak434das@gmail.com  
-
+- 📧 Email: dipak434das@gmail.com
 ---
 
 ⭐️ *“Backend first, but not backend only — building complete scalable systems”*
